@@ -8,7 +8,7 @@ _Roshan Shrestha_
 https://www.kaggle.com/stefanoleone992/fifa-22-complete-player-dataset
 
 
-The project will focus on the dataset of FIFA-22 Player to analyze the abilities of the player in comparison to its rating. I will be creating an interactive R-Shiny app.
+The project will focus on analyzing the dataset of FIFA-22 player's with their age, salary, ratings and their club. I will be creating an interactive R-Shiny app.
 
 **Task**
 * To find the correlation between the age of the player, their rating with their salary.
